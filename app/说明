@@ -1,0 +1,8 @@
+1、先将项目运行代码build一下，产物放到static文件夹下
+2、将生成的index.html的静态资源引用改成github的地址
+3、将修改的index.html文件扔给Hbuilder，作为入口index文件
+
+注意：
+1、build方式运用hash方式，hbuilder不认browser模式，提示找不到路径
+2、app里的文件夹用HBuilder的IDE打开，html5+应用，用的版本是3.7.8
+3、hbuilder进行云打包
