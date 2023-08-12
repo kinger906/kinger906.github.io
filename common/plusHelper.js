@@ -116,11 +116,11 @@ const plusHelper = {
 
 window.plusHelper = plusHelper
 
-document.write('<script src="https://cdn.bootcdn.net/ajax/libs/vConsole/3.15.0/vconsole.min.js?d=' + new Date().getTime() + '"><\/script>')
+// document.write('<script src="https://cdn.bootcdn.net/ajax/libs/vConsole/3.15.0/vconsole.min.js?d=' + new Date().getTime() + '"><\/script>')
 
-setTimeout(() => {
-    var vConsole = new VConsole();
-    console.log(document.location)
-    const filePath = location.href.replace('#/main', '#/detail')
-    window.plusHelper.openWindow(`${filePath}?id=10086`, '测试')
-}, 5000)
+// setTimeout(() => {
+//     var vConsole = new VConsole();
+//     console.log(document.location)
+//     const filePath = location.href.replace('#/main', '#/detail')
+//     window.plusHelper.openWindow(`${filePath}?id=10086`, '测试')
+// }, 5000)
