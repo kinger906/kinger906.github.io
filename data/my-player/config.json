@@ -10,6 +10,10 @@
             ],
             "allList": [
                 {
+                    "dataKey": "/movie_2024.json",
+                    "updateTime": 1692070243459
+                },
+                {
                     "dataKey": "/movie_2022.json",
                     "updateTime": 1692070243459
                 },
