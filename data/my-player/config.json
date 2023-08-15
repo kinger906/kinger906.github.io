@@ -6,11 +6,15 @@
             "relativeUrl": "https://kinger906.github.io/data/my-player",
             "define": "id,name,info,sources,logo,year,origin,order,create_time",
             "initList": [
-                "/movie_2022.json"
+                "/movie_2023.json"
             ],
             "allList": [
                 {
                     "dataKey": "/movie_2024.json",
+                    "updateTime": 1692070243459
+                },
+                {
+                    "dataKey": "/movie_2023.json",
                     "updateTime": 1692070243459
                 },
                 {
